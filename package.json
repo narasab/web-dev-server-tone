@@ -1,0 +1,18 @@
+{
+  "name": "web-dev-server-tone",
+  "version": "0.0.0",
+  "description": "Webcomponent web-dev-server-tone following open-wc recommendations",
+  "author": "web-dev-server-tone",
+  "license": "MIT",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "dependencies": {
+    "lit-element": "^2.0.1",
+    "lit-html": "^1.0.0",
+    "tone": "^14.7.77"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.1"
+  }
+}
